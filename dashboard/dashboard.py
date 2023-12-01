@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 import streamlit as st
 
 # Load the processed data
-day_df = pd.read_csv('E:/bootcamp/Dicoding/dicodingProject/dashboard/day_df.csv')
-hour_df = pd.read_csv('E:/bootcamp/Dicoding/dicodingProject/dashboard/hour_df.csv')
+day_df = pd.read_csv('dashboard/day_df.csv')
+hour_df = pd.read_csv('dashboard/hour_df.csv')
 
 # Sidebar
 st.sidebar.title('Bike Sharing Analysis')
