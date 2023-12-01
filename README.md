@@ -1,4 +1,4 @@
-# Submission Dicoding "Belajar Analisis Data dengan Python"
+# Submission Dicoding
 ## Preview
 ![Bike Sharing Dashboard Streamlit Preview](https://raw.githubusercontent.com/andrymldni/bike-sharing/main/assets/page.png)
 
